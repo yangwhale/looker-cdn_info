@@ -1,4 +1,4 @@
-connection: "chris-usit-bq"
+connection: "chris_demo_cdn_bq_log"
 
 # include all the views
 include: "/views/**/*.view"

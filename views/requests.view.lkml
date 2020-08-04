@@ -1,5 +1,5 @@
 view: requests {
-  sql_table_name: `ds_us.requests`
+  sql_table_name: `ds_tw.requests_09_12`
     ;;
 
   dimension: http_request {
