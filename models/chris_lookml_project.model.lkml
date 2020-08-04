@@ -2,6 +2,7 @@ connection: "chris_demo_cdn_bq_log"
 
 # include all the views
 include: "/views/**/*.view"
+include: "/*.dashboard"
 
 datagroup: chris_lkml_project_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
